@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\bin\Debug\net6.0\GROUP_WORK_6.exe
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\bin\Debug\net6.0\GROUP_WORK_6.deps.json
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\bin\Debug\net6.0\GROUP_WORK_6.runtimeconfig.json
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\bin\Debug\net6.0\GROUP_WORK_6.dll
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\bin\Debug\net6.0\GROUP_WORK_6.pdb
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.AssemblyInfo.cs
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.dll
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\refint\GROUP_WORK_6.dll
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.pdb
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\GROUP_WORK_6.genruntimeconfig.cache
+C:\Users\User\source\repos\WORK_GROUP_6\GROUP_WORK_6\obj\Debug\net6.0\ref\GROUP_WORK_6.dll
