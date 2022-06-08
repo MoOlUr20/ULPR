@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\bin\Debug\net6.0\WORK_GROUP_3.exe
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\bin\Debug\net6.0\WORK_GROUP_3.deps.json
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\bin\Debug\net6.0\WORK_GROUP_3.runtimeconfig.json
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\bin\Debug\net6.0\WORK_GROUP_3.dll
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\bin\Debug\net6.0\WORK_GROUP_3.pdb
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.AssemblyInfo.cs
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.dll
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\refint\WORK_GROUP_3.dll
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.pdb
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\WORK_GROUP_3.genruntimeconfig.cache
+C:\Users\User\source\repos\WORK_GROUP_3\WORK_GROUP_3\obj\Debug\net6.0\ref\WORK_GROUP_3.dll

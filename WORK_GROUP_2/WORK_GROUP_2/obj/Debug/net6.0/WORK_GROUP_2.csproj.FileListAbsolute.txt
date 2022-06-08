@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\bin\Debug\net6.0\WORK_GROUP_2.exe
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\bin\Debug\net6.0\WORK_GROUP_2.deps.json
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\bin\Debug\net6.0\WORK_GROUP_2.runtimeconfig.json
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\bin\Debug\net6.0\WORK_GROUP_2.dll
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\bin\Debug\net6.0\WORK_GROUP_2.pdb
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.AssemblyInfo.cs
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.dll
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\refint\WORK_GROUP_2.dll
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.pdb
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\WORK_GROUP_2.genruntimeconfig.cache
+C:\Users\89132\source\repos\WORK_GROUP_2\WORK_GROUP_2\obj\Debug\net6.0\ref\WORK_GROUP_2.dll
