@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WWG_5\WWG_5\bin\Debug\net6.0\WWG_5.exe
+C:\Users\User\source\repos\WWG_5\WWG_5\bin\Debug\net6.0\WWG_5.deps.json
+C:\Users\User\source\repos\WWG_5\WWG_5\bin\Debug\net6.0\WWG_5.runtimeconfig.json
+C:\Users\User\source\repos\WWG_5\WWG_5\bin\Debug\net6.0\WWG_5.dll
+C:\Users\User\source\repos\WWG_5\WWG_5\bin\Debug\net6.0\WWG_5.pdb
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.AssemblyInfo.cs
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.dll
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\refint\WWG_5.dll
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.pdb
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\WWG_5.genruntimeconfig.cache
+C:\Users\User\source\repos\WWG_5\WWG_5\obj\Debug\net6.0\ref\WWG_5.dll
